@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning HTML
 - 💞️ I’m looking to collaborate on this particular project
 - 📫 How to reach me: https://linktr.ee/admiraladventures
-- 😄 Pronouns: ...
+- 😄 Pronouns: Sir/The Admiral
 - ⚡ Fun fact: I was the commanding officer of three nuclear submarines
 
 <!---
